@@ -45,9 +45,6 @@ START
   DISPLAY charts and goal progress
   GENERATE monthly report
 END
-- [Your Name]
-- [Group Member 1]
-- [Group Member 2]
 
 Status:
 Initial proposal — development will start soon.
