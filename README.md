@@ -46,7 +46,7 @@ START
   GENERATE monthly report
 END
 
-Contributors:
+# Contributors:
 Milqui Rouz Pomoy
 Liam Josh Dagondon
 Rose Julian Lim
