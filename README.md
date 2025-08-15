@@ -46,5 +46,10 @@ START
   GENERATE monthly report
 END
 
+Contributors:
+Milqui Rouz Pomoy
+Liam Josh Dagondon
+Rose Julian Lim
+
 Status:
 Initial proposal — development will start soon.
