@@ -31,15 +31,15 @@ Many young adults overspend because they do not monitor their finances. Without 
 - Updates on savings progress.
 
 # Pseudocode
-DISPLAY "Welcome to BudgetBuddy!"
-INPUT user_name
-IF user does not exist THEN
+    DISPLAY "Welcome to BudgetBuddy!"
+    INPUT user_name
+    IF user does not exist THEN
     DISPLAY "Set your savings goal:"
     INPUT savings_goal
     SAVE user profile with savings_goal
-ENDIF
+    ENDIF
 
-REPEAT
+    REPEAT
     DISPLAY "1. Add Income"
     DISPLAY "2. Add Expense"
     DISPLAY "3. View Spending Summary"
