@@ -73,8 +73,8 @@ Many young adults overspend because they do not monitor their finances. Without 
         DEFAULT:
             DISPLAY "Invalid choice. Please try again."
     END SWITCH
-UNTIL user_choice = 6
-END
+    UNTIL user_choice = 6
+    END
 
 
 # Contributors:
