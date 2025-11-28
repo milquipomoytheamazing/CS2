@@ -48,7 +48,7 @@ REPEAT
     DISPLAY "6. Exit"
     INPUT user_choice
 
-  SWITCH (user_choice)
+    SWITCH (user_choice)
         CASE 1:
             INPUT income_amount, income_category, income_date
             ADD income to records
@@ -75,7 +75,7 @@ REPEAT
     END SWITCH
 UNTIL user_choice = 6
 END
-END
+
 
 # Contributors:
 Milqui Rouz Pomoy
