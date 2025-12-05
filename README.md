@@ -1,6 +1,7 @@
+# BudgetBuddy: Smart Expense and Savings Tracker
+
 # CS2
 Computer science is the study of computers and computational systems. This is the repository of Milqui Pomoy in CS2.
-BudgetBuddy: Smart Expense and Savings Tracker
 
 # Overview
 BudgetBuddy is a user-friendly tool designed to help individuals track their income, expenses, and savings goals. By providing clear transaction records, visual spending summaries, and progress updates, BudgetBuddy makes money management simple, helping users make informed financial decisions and stay motivated to save.
