@@ -28,3 +28,11 @@ Added
 Notes
 - Ready for development — functional requirements clearly defined
 - Documentation updated for submission and reference
+
+[V1.2] – 2025-12-05
+Added
+- Shortened README with only the important information
+
+Notes
+- Project now has functional tracking and reporting
+- Ready for testing and further improvements
