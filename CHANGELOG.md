@@ -1,38 +1,55 @@
 
 ## **CHANGELOG.md**
-```markdown
-BudgetBuddy - Changelog
+All notable changes to this project are documented here.
 
-[V1.0] - 2025-08-15
-Added
-- Initial project proposal completed
-- Defined problem statement
-- Listed project objectives
-- Planned features outlined
-- Identified inputs and outputs
-- Created basic logic flow (pseudocode)
+Version 0.0.1 — Nov 20, 2025
 
-Notes
-- README.md and CHANGELOG.md prepared for initial submission  
-- No actual coding implementation yet — design stage only
+Selected project topic: BudgetBuddy (Smart Expense and Savings Tracker)
 
-[V1.1] - 2025-11-28
-Added
-- Finalized project proposal with refined overview and problem statement
-- Clarified project goals for better user understanding
-- Updated features with user-friendly descriptions
-- Simplified inputs and outputs section
-- Expanded pseudocode with full menu options, income/expense handling, chart generation, savings progress, and monthly PDF report generation
-- Added contributors and final project status
+Defined target users and objectives
 
-Notes
-- Ready for development — functional requirements clearly defined
-- Documentation updated for submission and reference
+Drafted initial project proposal
 
-[V1.2] – 2025-12-05
-Added
-- Shortened README with only the important information
+Planned core features (income, expenses, savings goal)
 
-Notes
-- Project now has functional tracking and reporting
-- Ready for testing and further improvements
+Version 0.1.0 — Dec 4, 2025
+
+Created GitHub repository
+
+Uploaded starter file (budgetbuddy.py)
+
+Implemented income and expense recording
+
+Added transaction categories
+
+Implemented JSON data storage
+
+Added input validation and error handling
+
+Created initial README
+
+Version 1.0.0 — Dec 5, 2025
+
+Completed savings goal logic
+
+Added automatic savings calculation
+
+Implemented savings progress percentage
+
+Added transaction viewing feature
+
+Added transaction deletion feature
+
+Improved error handling
+
+Cleaned and commented code
+
+Organized repository structure
+
+Updated README with installation instructions
+
+Finalized full documentation
+
+Prepared project for final submission
+
+Reviewed ethical considerations and APA references
