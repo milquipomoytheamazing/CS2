@@ -1,0 +1,133 @@
+Project Documentation
+1. Introduction
+
+This repository contains the full development of the BudgetBuddy: Smart Expense and Savings Tracker, including source code, documentation, and development updates.
+
+BudgetBuddy is a console-based budgeting system that allows users to track income, expenses, and savings goals efficiently.
+
+--
+
+2. Updated Feature List
+
+Final implemented features:
+
+-Income recording
+
+-Expense recording with categories
+
+-Savings goal input
+
+-Automatic savings calculation
+
+-Savings progress percentage display
+
+-Transaction viewing
+
+-Transaction deletion
+
+-Error handling for invalid inputs
+
+-Organized repository with updated documentation
+
+--
+
+3. File and Function Structure
+Main File
+
+budgetbuddy.py
+
+Functions
+Function	Purpose
+load_data()	Loads stored financial data
+save_data()	Saves updated data to JSON file
+add_transaction()	Records income or expense
+set_savings_goal()	Sets savings goal
+calculate_totals()	Computes income, expenses, savings
+view_summary()	Displays financial summary
+view_transactions()	Shows all transactions
+delete_transaction()	Deletes selected transaction
+main()	Controls program flow
+
+--
+
+4. Methodology
+How Core Features Were Implemented
+Data Storage
+
+Transactions are stored in a JSON file as dictionaries:
+
+transaction = {"type": type, "amount": amount, "category": category, "date": date}
+
+
+Data loads when the program starts and saves automatically after updates.
+
+Financial Calculations
+
+Totals are calculated using Python’s built-in functions.
+
+Savings Formula:
+
+Savings = Total Income − Total Expenses
+
+Savings Progress (%) = (Savings ÷ Savings Goal) × 100
+
+--
+
+5. Technologies Used (with Justification)
+Technology	Reason
+Python	Simple and beginner-friendly
+JSON	Lightweight local data storage
+datetime	Tracks transaction dates
+Git & GitHub	Version control and collaboration
+
+--
+
+6. Key Design Decisions & Trade-offs
+Decision	Reason
+Console-based interface	Focus on functionality
+Local JSON storage	No database required
+Single-file structure	Easier for beginner-level project
+
+Trade-off:
+No graphical interface (future improvement).
+
+--
+
+7. Backend–Frontend Communication
+
+Not applicable.
+This is a standalone console application.
+
+--
+
+8. Ethical Considerations in Programming
+
+Based on principles from the Association for Computing Machinery (ACM) Code of Ethics.
+
+Privacy:
+-No personal data collected
+-No internet required
+-Data stored locally
+-Accessibility
+-Clear prompts
+-Simple menu layout
+-Error handling included
+-Intellectual Property
+
+All code written by the team
+
+Sources properly cited
+
+--
+
+9. References (APA Style)
+
+Association for Computing Machinery. (2018).
+ACM Code of Ethics and Professional Conduct.
+https://www.acm.org/code-of-ethics
+
+Python Software Foundation. (2023).
+Python documentation.
+https://docs.python.org/3/
+
+--
