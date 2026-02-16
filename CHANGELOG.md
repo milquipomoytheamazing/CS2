@@ -4,7 +4,7 @@ All notable changes to this project are documented here.
 
 ---
 
-Version 0.0.1 — Nov 20, 2025
+# Version 0.0.1 — Nov 20, 2025
   -Selected project topic: BudgetBuddy (Smart Expense and Savings Tracker)
   -Defined target users and objectives
   -Drafted initial project proposal
@@ -12,7 +12,7 @@ Version 0.0.1 — Nov 20, 2025
 
 ---
 
-Version 0.1.0 — Dec 4, 2025
+# Version 0.1.0 — Dec 4, 2025
   -Created GitHub repository
   -Uploaded starter file (budgetbuddy.py)
   -Implemented income and expense recording
@@ -23,7 +23,7 @@ Version 0.1.0 — Dec 4, 2025
 
 ---
 
-Version 1.0.0 — Dec 5, 2025
+# Version 1.0.0 — Dec 5, 2025
   -Completed savings goal logic
   -Added automatic savings calculation
   -Implemented savings progress percentage
