@@ -1,4 +1,4 @@
-# 💰 BudgetBuddy: Smart Expense and Savings Tracker
+ # 💰 BudgetBuddy: Smart Expense and Savings Tracker
 
 **CS2 – Computer Science**
 
@@ -118,5 +118,3 @@ This project follows principles from the **Association for Computing Machinery (
 * Milqui Rouz E. Pomoy
 * Liam Josh K. Dagondon
 * Rose Julian B. Lim
-
-Just tell me what your teacher prefers 😎
