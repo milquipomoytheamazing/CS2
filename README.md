@@ -1,4 +1,4 @@
- # 💰 BudgetBuddy: Smart Expense and Savings Tracker
+ # BudgetBuddy: Smart Expense and Savings Tracker
 
 **CS2 – Computer Science**
 
@@ -6,7 +6,7 @@ BudgetBuddy is a command-line financial tracking application that helps users ma
 
 ---
 
-## 📌 Features
+## Features
 
 * Add income entries
 * Add expense entries
@@ -19,7 +19,7 @@ BudgetBuddy is a command-line financial tracking application that helps users ma
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * **Python** – Core programming language
 * **JSON** – Data storage format for transactions
@@ -27,7 +27,7 @@ BudgetBuddy is a command-line financial tracking application that helps users ma
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 BudgetBuddy/
@@ -42,12 +42,12 @@ BudgetBuddy/
 
 ---
 
-## ▶ Installation & How to Run
+# Installation & How to Run
 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/BudgetBuddy.git
+   git clone https://github.com/milquipomoytheamaxing/CS2.git
    ```
 
 2. Navigate into the folder:
@@ -66,7 +66,7 @@ No additional libraries are required.
 
 ---
 
-## ⚙ How It Works
+## How It Works
 
 1. The program loads stored financial data from a JSON file.
 
@@ -85,7 +85,7 @@ No additional libraries are required.
 
 ---
 
-## 🧠 Key Design Decisions
+## Key Design Decisions
 
 * JSON was used instead of a database to keep the system simple and beginner-friendly.
 * A command-line interface (CLI) was chosen to focus on logic and functionality.
@@ -93,7 +93,7 @@ No additional libraries are required.
 
 ---
 
-## ⚖ Programming and Computing Ethics
+## Programming and Computing Ethics
 
 This project follows principles from the **Association for Computing Machinery (ACM) Code of Ethics**:
 
@@ -104,7 +104,7 @@ This project follows principles from the **Association for Computing Machinery (
 
 ---
 
-## 📊 Current Project Status
+## Current Project Status
 
 ✔ Income and expense tracking completed
 ✔ Savings goal tracking implemented
@@ -113,7 +113,7 @@ This project follows principles from the **Association for Computing Machinery (
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 * Milqui Rouz E. Pomoy
 * Liam Josh K. Dagondon
