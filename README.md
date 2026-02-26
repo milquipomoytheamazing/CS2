@@ -58,8 +58,6 @@ BudgetBuddy/
    python BudgetBuddy.py
    ```
 
-No additional libraries are required.
-
 ---
 
 ## How It Works
@@ -101,11 +99,10 @@ This project follows principles from the **Association for Computing Machinery (
 ---
 
 ## Current Project Status
-
-✔ Income and expense tracking completed
-✔ Savings goal tracking implemented
-✔ Transaction deletion feature added
-✔ Financial summary calculation working
+* Income and expense tracking completed
+* Savings goal tracking implemented
+* Transaction deletion feature added
+* Financial summary calculation working
 
 ---
 
