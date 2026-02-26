@@ -31,14 +31,10 @@ BudgetBuddy is a command-line financial tracking application that helps users ma
 
 ```
 BudgetBuddy/
-│── budgetbuddy.py
+│── BudgetBuddy.py
 │── transactions.json (auto-generated)
 │── README.md
 ```
-
-* `budgetbuddy.py` → Main program file
-* `transactions.json` → Stores income, expenses, and savings goal
-* `README.md` → Project documentation
 
 ---
 
