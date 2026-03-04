@@ -43,7 +43,7 @@ BudgetBuddy/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/milquipomoytheamaxing/CS2.git
+   git clone https://github.com/milquipomoytheamazing/CS2.git
    ```
 
 2. Navigate into the folder:
